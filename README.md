@@ -16,7 +16,7 @@ Usage
 Example
 -------
 
-![example](https://dl.dropboxusercontent.com/u/14832699/Screen%20Shot%202013-07-08%20at%204.23.47%20PM.png)
+![example](https://dl.dropboxusercontent.com/u/14832699/unite_git_conflict_tutorial.gif)
 
 
 How to install
